@@ -6,7 +6,7 @@ Aşağıdaki referans linkinden Thread emniyeti ile ilgili bir tane konuyu seçm
 Ödevi tamamlamak için:
 - Bir `maven` projesi oluşturmanızı bekliyoruz.
 - Oluşturduğunuz `maven` projesi derste anlatılan multi-threading yöntemlerinden birini(Thread Inheritance, Runnable or Callable Implementation, Lambda Expressions) kullanmalı.
-- Yaptığınız araştırmanın bir özetini `RESEARCH.md` adında bir dokümana yazmanızı bekliyoruz. Bu dokümanda beklediğimiz bilgiler Ne(Emniyetin Açıklaması)? Nerde(Hangi Durumlarda)? Niçin(Avantajları)? sorularının cevabını vermelidir. Ayrıca bu dokümana incelediğiniz kaynakları eklemeyi unutmayınız :-)
+- Yaptığınız araştırmanın bir özetini `RESEARCH.md` adında bir dokümana yazmanızı bekliyoruz. Bu dokümanda beklediğimiz bilgiler Ne(Emniyetin Açıklaması)? Nerde(Hangi Durumlarda)? Niçin(Avantajları ve Dezavantajları)? sorularının cevabını vermelidir. Ayrıca bu dokümana incelediğiniz kaynakları eklemeyi unutmayınız :-)
 
 ## Opsiyonel Şartler
 - Spring Boot ile multithreading araştırması yapıp `ADDITIONAL_INFO.md` adında bir dokümana yazabilirsiniz.
