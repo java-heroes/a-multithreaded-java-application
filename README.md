@@ -9,7 +9,8 @@ Aşağıdaki referans linkinden Thread emniyeti ile ilgili bir tane konuyu seçm
 - Yaptığınız araştırmanın bir özetini `RESEARCH.md` adında bir dokümana yazmanızı bekliyoruz. Bu dokümanda beklediğimiz bilgiler Ne(Emniyetin Açıklaması)? Nerde(Hangi Durumlarda)? Niçin(Avantajları ve Dezavantajları)? sorularının cevabını vermelidir. Ayrıca bu dokümana incelediğiniz kaynakları eklemeyi unutmayınız :-)
 
 ## Opsiyonel Şartler
-- "Spring Boot ile Multithreading" araştırması yapıp `ADDITIONAL_INFO.md` adında bir dokümana yazabilirsiniz.
+- "Spring Boot ile Multithreading" araştırması yapıp `ADDITIONAL_INFO.md` adında bir dokümana öğrendiğiniz bilgileri yazabilirsiniz.
+- Spring Boot ile multithreading emniyeti *YAPMAMALISINIZ*.
 
 ## Diğer Bilgiler
 
